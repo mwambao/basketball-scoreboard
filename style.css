@@ -46,4 +46,13 @@ button {
     color: #9AABD8;
     border-radius: 10%;
     font-family: 'Cursed Timer ULiL', Arial;
+    background-color: #1B244A;
+    border: 1px solid;
+    
+}
+
+#restart {
+    width: 100px;
+    margin-top: 80%;
+
 }

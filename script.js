@@ -35,3 +35,10 @@ function plus2Guest(){
 function plus3Guest(){
     selectScoreGuest.textContent = Number( selectScoreGuest.textContent ) + 3;
 }
+
+//Restart
+
+function restart(){
+    selectScoreHome.textContent = 0;
+    selectScoreGuest.textContent = 0;
+}
