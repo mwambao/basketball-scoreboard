@@ -27,8 +27,8 @@ Users should be able to register the scores for both home and guest teams. In th
 
 ### Links
 
-- Solution URL: [Blog Preview Card](https://github.com/mwambao/blog-preview-card)
-- Live Site URL: [Blog Preview Card live URL](https://blog-preview-card-one-swart.vercel.app/)
+- Repo URL: [Repo URL](https://github.com/mwambao/basketball-scoreboard)
+- Live Site URL: Basketball scoreboard](https://basketball-scoreboard-beryl.vercel.app/)
 
 ## My process
 
@@ -36,18 +36,18 @@ Users should be able to register the scores for both home and guest teams. In th
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
-- Desktop-first workflow 
+- CSS Flex
+- JavaScript
 
 ### What I learned
 
-I enhanced my skills on using Grid just like i practised in [QR Code Component Challenge] (https://github.com/mwambao/qr-code-component)
+I enhanced my skills on using CSS Flex, JS functions and onclick event listener.
 
 
 ### Useful resources
 
-- [CSS Tutorial](https://www.w3schools.com/css/default.asp) - My place to go if i need to quickly check on something!
-- [MDN for HTML and CSS](https://developer.mozilla.org/en-US/) - One of the primary resources.
+- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp) - My place to go if i need to quickly check on something!
+- [MDN for HTML, CSS and JavaScript](https://developer.mozilla.org/en-US/) - One of the primary resources.
 
 
 ## Author
