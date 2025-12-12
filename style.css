@@ -22,6 +22,12 @@ h3 {
     width: 155px;
     height: 120px;
     margin-top: 21px;
+    font-family: 'Cursed Timer ULiL', Arial;
+    color: F94F6D;
+    font-size: 90px;
+    text-align: center;
+    padding: 20px ;
+    border-radius: 10px;
 }
 
 
@@ -34,14 +40,6 @@ h3 {
 } 
 
 
-.score-display {
-    font-family: 'Cursed Timer ULiL', Arial;
-    color: F94F6D;
-    font-size: 90px;
-    text-align: center;
-    padding: 20px ;
-    border-radius: 10px;
-}
 button {
     width: 45px;
     height: 45px;
